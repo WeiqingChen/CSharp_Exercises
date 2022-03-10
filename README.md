@@ -1,1 +1,2 @@
-# CSharp_Exercises
+# csharp_exercises
+C# program study exercises
